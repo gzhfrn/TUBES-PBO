@@ -10,3 +10,11 @@ Oleh Kelompok 6 Kelas IF-47-02:
 | Wa Ode Najwa Amalia | 103012300265 | TradePost & Register |
 | Ghaisani Zhafarina | 103012300379 | Treadeable & Message |
 
+Aplikasi Skillexus 
+Skillexus adalah platform inovatif yang memungkinkan pengguna untuk melakukan barter 
+keterampilan tanpa menggunakan uang. Di sini, kamu bisa menawarkan keterampilan yang 
+kamu kuasai, seperti desain grafis, musik, atau bahasa, dan menukarnya dengan 
+keterampilan yang ingin kamu pelajari, seperti belajar bermain alat musik, memasak, atau 
+keterampilan lainnya. Dengan konsep saling mengajarkan, Aplikasi ini membuka 
+kesempatan bagi semua orang untuk berkembang tanpa beban finansial, menciptakan 
+komunitas belajar yang saling mendukung.
