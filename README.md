@@ -60,7 +60,8 @@ mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 8. Tampilan messages ketika user ingin bertukar pesan dengan user lain![WhatsApp Image 2025-06-12 at 21 32 59](https://github.com/user-attachments/assets/4e7999b4-b03f-43e4-bd1c-584eb194468f)
 
 9. Fitur logout
-![WhatsApp Image 2025-06-12 at 21 34 14](https://github.com/user-attachments/assets/637e40ac-0b8a-4e32-8163-5ba8b7113ffb)
+![Cuplikan layar 2025-06-12 214322](https://github.com/user-attachments/assets/422e6449-af23-4b5b-92a2-6a1d96a4ed69)
+
 
 
 
