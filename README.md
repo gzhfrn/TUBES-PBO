@@ -56,7 +56,7 @@ mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 6. Tampilan postingan milik user yang menampilkan daftar semua postingan yang dibuat oleh user tersebut. Fitur ini mencakup tombol edit/hapus postingan.
 ![WhatsApp Image 2025-06-12 at 21 28 41](https://github.com/user-attachments/assets/5dad69a1-4193-4f87-bf98-2ef6f16c7fae)
 
-7. Tampilan seluruh postingan.Halaman eksplorasi tempat user melihat semua postingan user lain. User bisa memilih postingan yang relevan untuk diajak bertukar skill.[WhatsApp Image 2025-06-12 at 21 31 40](https://github.com/user-attachments/assets/00d9563a-fd82-4904-b2cc-f986810f0ae5)
+7. Tampilan seluruh postingan.Halaman eksplorasi tempat user melihat semua postingan user lain. User bisa memilih postingan yang relevan untuk diajak bertukar skill.![WhatsApp Image 2025-06-12 at 21 31 40](https://github.com/user-attachments/assets/00d9563a-fd82-4904-b2cc-f986810f0ae5)
    
 8.Tampilan messages sebagai antarmuka chat antar user.![WhatsApp Image 2025-06-12 at 21 32 59](https://github.com/user-attachments/assets/4e7999b4-b03f-43e4-bd1c-584eb194468f)
 
