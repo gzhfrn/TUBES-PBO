@@ -4,11 +4,11 @@
 Oleh Kelompok 6 Kelas IF-47-02: 
 |     NAMA      |      NIM      |           TUGAS FITUR           |
 | ------------- | ------------- | ------------------------------- |
-| Thasya Jasmine Violetta | 103012300084 |       Skill & Login   |                        |
+| Thasya Jasmine Violetta | 103012300084 |       SetSkill & Login   |                        |
 | Meyra Firdhaus Isnaini |103012300179 | Account |
-| Andi Alfian Wahyudi | 103012300190 | User &TradeRequest |
+| Andi Alfian Wahyudi | 103012300190 | User |
 | Wa Ode Najwa Amalia | 103012300265 | TradePost & Register |
-| Ghaisani Zhafarina | 103012300379 | Treadeable & Message |
+| Ghaisani Zhafarina | 103012300379 | Message |
 
 Aplikasi Skillexus 
 Skillexus adalah platform inovatif yang memungkinkan pengguna untuk melakukan barter 
@@ -31,14 +31,14 @@ asing, dll.)
 3. Posting Tukar Keterampilan (TradePost) 
 Fitur ini memungkinkan pengguna untuk membuat posting yang menampilkan 
 keterampilan yang mereka tawarkan dan keterampilan yang mereka cari. 
-4. Permintaan Tukar (TradeRequest) 
-Pengguna dapat mengirim permintaan untuk menukar keterampilan dengan 
-pengguna lain. 
-5. Sistem Pesan (Chat) antar pengguna 
+4. Sistem Pesan (Chat) antar pengguna 
 Fitur pesan memungkinkan komunikasi langsung antar pengguna untuk 
 mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 
 # Class Diagram ![fixuml drawio](https://github.com/user-attachments/assets/065cfefb-4d50-4462-81a2-6bada7f51df0)
+
+# Screenshot Demo
+
 
 
 
