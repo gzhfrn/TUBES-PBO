@@ -38,8 +38,19 @@ mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 # Class Diagram ![fixuml drawio](https://github.com/user-attachments/assets/065cfefb-4d50-4462-81a2-6bada7f51df0)
 
 # Screenshot Demo
+1. Registrasi akun
+![WhatsApp Image 2025-06-12 at 21 30 45](https://github.com/user-attachments/assets/e7908245-e76d-47f6-baff-83bdbd6d36b1)
 
+3. Ketika registrasi berhasil, tampilan akan masuk ke halaman login
+![WhatsApp Image 2025-06-12 at 21 30 45 (1)](https://github.com/user-attachments/assets/4b0b0359-ef1d-4ace-890b-e4f0ac0cc09f)
 
+5. Tampilan dashboard
+![WhatsApp Image 2025-06-12 at 21 30 45 (2)](https://github.com/user-attachments/assets/ae07613c-fe28-441c-a6e0-5d686640a46e)
+
+6. Masukkan skill yang user kuasai
+7. User membuat postingan untuk menukar skill yang dikuasai dan yang ingin dipelajari
+8. Tampilan Postingan milik user
+![WhatsApp Image 2025-06-12 at 21 28 41](https://github.com/user-attachments/assets/5dad69a1-4193-4f87-bf98-2ef6f16c7fae)
 
 
 
