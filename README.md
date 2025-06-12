@@ -41,16 +41,30 @@ mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 1. Registrasi akun
 ![WhatsApp Image 2025-06-12 at 21 30 45](https://github.com/user-attachments/assets/e7908245-e76d-47f6-baff-83bdbd6d36b1)
 
-3. Ketika registrasi berhasil, tampilan akan masuk ke halaman login
+2. Ketika registrasi berhasil, tampilan akan masuk ke halaman login
 ![WhatsApp Image 2025-06-12 at 21 30 45 (1)](https://github.com/user-attachments/assets/4b0b0359-ef1d-4ace-890b-e4f0ac0cc09f)
 
-5. Tampilan dashboard
+3. Tampilan dashboard
 ![WhatsApp Image 2025-06-12 at 21 30 45 (2)](https://github.com/user-attachments/assets/ae07613c-fe28-441c-a6e0-5d686640a46e)
 
-6. Masukkan skill yang user kuasai
-7. User membuat postingan untuk menukar skill yang dikuasai dan yang ingin dipelajari
-8. Tampilan Postingan milik user
+4. Masukkan skill yang user kuasai
+![WhatsApp Image 2025-06-12 at 21 30 04](https://github.com/user-attachments/assets/2bd70780-c952-4791-aa52-d91fa848ca88)
+
+5. User membuat postingan untuk menukar skill yang dikuasai dan yang ingin dipelajari![WhatsApp Image 2025-06-12 at 21 29 49](https://github.com/user-attachments/assets/276a9f53-f276-494c-b082-d6aec8615037)
+
+6. Tampilan Postingan milik user
 ![WhatsApp Image 2025-06-12 at 21 28 41](https://github.com/user-attachments/assets/5dad69a1-4193-4f87-bf98-2ef6f16c7fae)
+
+7. Tampilan seluruh postingan![WhatsApp Image 2025-06-12 at 21 31 40](https://github.com/user-attachments/assets/00d9563a-fd82-4904-b2cc-f986810f0ae5)
+   
+8. Tampilan messages ketika user ingin bertukar pesan dengan user lain![WhatsApp Image 2025-06-12 at 21 32 59](https://github.com/user-attachments/assets/4e7999b4-b03f-43e4-bd1c-584eb194468f)
+
+9. Fitur logout![WhatsApp Image 2025-06-12 at 21 34 14](https://github.com/user-attachments/assets/637e40ac-0b8a-4e32-8163-5ba8b7113ffb)
+
+
+
+
+
 
 
 
