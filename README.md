@@ -38,28 +38,29 @@ mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 # Class Diagram ![fixuml drawio](https://github.com/user-attachments/assets/065cfefb-4d50-4462-81a2-6bada7f51df0)
 
 # Screenshot Demo
-1. Registrasi akun
+1. Registrasi akun. Setelah mengisi form dan registrasi berhasil, sistem akan mengarahkan user ke halaman login
+
 ![WhatsApp Image 2025-06-12 at 21 30 45](https://github.com/user-attachments/assets/e7908245-e76d-47f6-baff-83bdbd6d36b1)
 
-2. Ketika registrasi berhasil, tampilan akan masuk ke halaman login
+2. Ketika registrasi berhasil, tampilan akan masuk ke halaman login. User memasukkan username dan password
 ![WhatsApp Image 2025-06-12 at 21 30 45 (1)](https://github.com/user-attachments/assets/4b0b0359-ef1d-4ace-890b-e4f0ac0cc09f)
 
-3. Tampilan dashboard
+3. Tampilan dashboard. Sistem menampilkan navigasi utama ke berbagai fitur seperti input skill, buat postingan, dan lihat pesan
 ![WhatsApp Image 2025-06-12 at 21 30 45 (2)](https://github.com/user-attachments/assets/ae07613c-fe28-441c-a6e0-5d686640a46e)
 
-4. Masukkan skill yang user kuasai
+4. Tampilan SetSkill. Halaman tempat user dapat menambahkan keterampilan yang dikuasai, memberi deskripsi, dan memilih kategori skill (contoh: desain grafis, bahasa, musik).
 ![WhatsApp Image 2025-06-12 at 21 30 04](https://github.com/user-attachments/assets/2bd70780-c952-4791-aa52-d91fa848ca88)
 
-5. User membuat postingan untuk menukar skill yang dikuasai dan yang ingin dipelajari![WhatsApp Image 2025-06-12 at 21 29 49](https://github.com/user-attachments/assets/276a9f53-f276-494c-b082-d6aec8615037)
+5. Tampilan tradepost. User dapat membuat postingan yang menunjukkan Skill yang dimiliki dan Skill yang ingin dipelajari. Fitur ini adalah titik awal barter keterampilan antar user.![WhatsApp Image 2025-06-12 at 21 29 49](https://github.com/user-attachments/assets/276a9f53-f276-494c-b082-d6aec8615037)
 
-6. Tampilan Postingan milik user
+6. Tampilan postingan milik user yang menampilkan daftar semua postingan yang dibuat oleh user tersebut. Fitur ini mencakup tombol edit/hapus postingan.
 ![WhatsApp Image 2025-06-12 at 21 28 41](https://github.com/user-attachments/assets/5dad69a1-4193-4f87-bf98-2ef6f16c7fae)
 
-7. Tampilan seluruh postingan![WhatsApp Image 2025-06-12 at 21 31 40](https://github.com/user-attachments/assets/00d9563a-fd82-4904-b2cc-f986810f0ae5)
+7. Tampilan seluruh postingan.Halaman eksplorasi tempat user melihat semua postingan user lain. User bisa memilih postingan yang relevan untuk diajak bertukar skill.[WhatsApp Image 2025-06-12 at 21 31 40](https://github.com/user-attachments/assets/00d9563a-fd82-4904-b2cc-f986810f0ae5)
    
-8. Tampilan messages ketika user ingin bertukar pesan dengan user lain![WhatsApp Image 2025-06-12 at 21 32 59](https://github.com/user-attachments/assets/4e7999b4-b03f-43e4-bd1c-584eb194468f)
+8.Tampilan messages sebagai antarmuka chat antar user.![WhatsApp Image 2025-06-12 at 21 32 59](https://github.com/user-attachments/assets/4e7999b4-b03f-43e4-bd1c-584eb194468f)
 
-9. Fitur logout
+9. Fitur logout untuk keluar dari akun dan kembali ke halaman login.
 ![Cuplikan layar 2025-06-12 214322](https://github.com/user-attachments/assets/422e6449-af23-4b5b-92a2-6a1d96a4ed69)
 
 
