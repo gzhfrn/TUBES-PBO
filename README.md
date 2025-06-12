@@ -38,7 +38,8 @@ pengguna lain.
 Fitur pesan memungkinkan komunikasi langsung antar pengguna untuk 
 mendiskusikan lebih lanjut tentang keterampilan yang ingin ditukar.
 
-# Class Diagram 
+# Class Diagram ![fixuml drawio](https://github.com/user-attachments/assets/065cfefb-4d50-4462-81a2-6bada7f51df0)
 
-![WhatsApp Image 2025-05-14 at 19 42 57 (1)](https://github.com/user-attachments/assets/a08b1bab-2305-4ce1-bcd4-e09df3f71446) 
+
+
 
