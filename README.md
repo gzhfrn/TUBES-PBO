@@ -5,7 +5,7 @@ Oleh Kelompok 6 Kelas IF-47-02:
 |     NAMA      |      NIM      |           TUGAS FITUR           |
 | ------------- | ------------- | ------------------------------- |
 | Thasya Jasmine Violetta | 103012300084 |       SetSkill & Login   |                        |
-| Meyra Firdhaus Isnaini |103012300179 | Account |
+| Meyra Firdhaus Isnaini |103012300179 | Account & Logout |
 | Andi Alfian Wahyudi | 103012300190 | User |
 | Wa Ode Najwa Amalia | 103012300265 | TradePost & Register |
 | Ghaisani Zhafarina | 103012300379 | Message |
